@@ -1,7 +1,10 @@
 # ZSI_Segmentation
 Implementation zero-shot instance segmentation in google colab
 
-
+# Zahra Heydari 
+# DNN Project Implementation
+   
+   
 # Citing
 
 
